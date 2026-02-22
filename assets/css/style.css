@@ -1,0 +1,25 @@
+body {
+    background-color: royalblue;
+    color: white;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color:blue;
+}
+
+
+button {
+    background-color: yellowgreen;
+    height: 60px;
+    width: 100px;
+    font-size: 1.5rem;
+}
+
+button:hover {
+    background-color: white;
+}
