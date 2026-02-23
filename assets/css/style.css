@@ -23,3 +23,17 @@ button {
 button:hover {
     background-color: white;
 }
+
+/* Game Page */
+
+/* Game Board */
+.big-circle {
+    height: 300px;
+    width: 300px;  
+    background-color: gray;
+    margin: auto; 
+    margin-top: 4rem; 
+    border-radius: 50%;
+}
+
+
