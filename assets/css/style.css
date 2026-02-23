@@ -32,8 +32,27 @@ button:hover {
     width: 300px;  
     background-color: gray;
     margin: auto; 
-    margin-top: 4rem; 
+    margin-top: 3rem; 
     border-radius: 50%;
+}
+
+/* Die */
+.game-die {
+    height: 70px;
+    width: 70px;
+    background-color: whitesmoke;
+    margin: auto;
+    margin-top: 2rem;
+    
+}
+
+.rolled-colour {
+    background-color: gray;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: auto;
+    
 }
 
 
