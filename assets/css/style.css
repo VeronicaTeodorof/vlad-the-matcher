@@ -40,9 +40,10 @@ button:hover {
 .game-die {
     height: 70px;
     width: 70px;
-    background-color: whitesmoke;
+    background-color: black;
     margin: auto;
     margin-top: 2rem;
+    position: relative;
     
 }
 
@@ -51,7 +52,9 @@ button:hover {
     height: 50px;
     width: 50px;
     border-radius: 50%;
-    margin: auto;
+    position: absolute;
+    top: 10px;
+    left: 10px;
     
 }
 
