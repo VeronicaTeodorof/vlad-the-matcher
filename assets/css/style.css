@@ -36,6 +36,17 @@ button:hover {
     border-radius: 50%;
 }
 
+.opponent-game-level {
+    height: 100px;
+    width: 500px;
+    background-color: black;
+    margin: auto;
+    margin-top: 3px;
+    position: absolute;
+    left: 100px;
+    background-color: wheat;
+}
+
 /* Die */
 .game-die {
     height: 70px;
@@ -44,6 +55,8 @@ button:hover {
     margin: auto;
     margin-top: 2rem;
     position: relative;
+    position: absolute;
+    right: 320px
     
 }
 
@@ -63,6 +76,8 @@ button:hover {
 }
 .incorrect {
     font-size: 2rem;
+    margin-top: 10px;
+    ;
 }
 
 
