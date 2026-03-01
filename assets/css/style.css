@@ -61,5 +61,8 @@ button:hover {
 .score {
     font-size: 2rem;
 }
+.incorrect {
+    font-size: 2rem;
+}
 
 
